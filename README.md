@@ -1,0 +1,2 @@
+# WP
+word press dir
